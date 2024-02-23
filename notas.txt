@@ -1,0 +1,8 @@
+
+<script src="https://kit.fontawesome.com/fbcfae8b9b.js" crossorigin="anonymous"></script>
+<i class="fa-solid fa-camera"></i>
+<i class="fa-solid fa-bullhorn"></i>
+<i class="fa-regular fa-map"></i>
+
+
+<!-- data-bs-theme="dark" cambia color de palabras -->
